@@ -12,24 +12,16 @@ Nexus-Audit-Tool 🚀
 ​Scalable: Perfect for small teams and large-scale agency operations.
 ​🛠️ Quick Start
 ​Follow these steps to get started with the Nexus Audit Tool:
-
-Clone the repository:
-
+​Clone the repository:
 git clone https://github.com/sajdaabid/Nexus-Audit-Tool.git
-
-Navigate to the directory:
-
+​Navigate to the directory:
 cd Nexus-Audit-Tool
-
-Run the tool:
-
+​Run the tool:
 python main.py --input your_log_file.csv
-
-
-📈 Traction
+​📈 Traction
 ​Nexus Audit is currently empowering 100+ agencies to optimize their data management and audit workflows.
 ​🤝 Contribution & Contact
 ​We are building the future of agency automation. If you have any feature requests, bug reports, or are interested in custom automation solutions for your agency, feel free to:
 ​Open an issue
-​Connect with me on LinkedIn (https://www.linkedin.com/in/sajida-abid-malik-a44415365)
+​Connect with me on LinkedIn
 ​Built with ❤️ for the future of Agency Automation.
